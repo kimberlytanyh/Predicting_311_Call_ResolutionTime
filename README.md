@@ -1,8 +1,11 @@
 # Business Analytics Capstone Project
 
-__Project Overview:__ Based on records of previous 311 complaints, can we predict how long an incident will take to resolve?
+__Project Overview:__ 
+
+Based on records of previous 311 complaints, can we predict how long an incident will take to resolve?
 
 __Context:__ 
+
 In choosing a business problem to solve, my team and I decided to look into the problem reducing abnormally long 311 call resolution time. Specifically, we attempted to build supervised regression models that can predict 311 call resolution times. 
 
 In theory, the predictions would reflect normal resolution times and if a call, in actuality, exceeds the prediction by a lot, we can conclude that the resolution of the issue in the call should be prioritized since it is outside of normal processing time.
@@ -16,7 +19,7 @@ __Link to Reports:__
 
 ## Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing) 
 
-<img src = "images/Dataset Joining - Overview.png" width = 700 height = 500>
+<img src = "images/Dataset Joining - Overview.png" width = 700 height = 400>
 
 Steps performed at this stage:
 - Finding Data and Joining Datasets ([2020 311 Cases in San Francisco](https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6), Registered Business Locations, City Facilities, and San Francisco Socio-Economic Profiles)
