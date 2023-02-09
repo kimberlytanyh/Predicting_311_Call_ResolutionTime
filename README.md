@@ -1,3 +1,17 @@
-For our business analytics capstone project, my team and I decided to look into the problem of abnormally long 311 call resolution time. Specifically, we attempted to build supervised regression models that can predict 311 call resolution times. In theory, the predictions would reflect normal resolution times and if a call, in actuality, exceeds the prediction by a lot, we can conclude that the resolution of the issue in the call should be prioritized since it is outside of normal processing time.
+# Business Analytics Capstone Project
 
-{google slides}https://docs.google.com/presentation/d/e/2PACX-1vR5SX4TS9XGR7kneTyzPiiNFNiMll0jzDyvmXh52jQ_GbwywHZgaHgcaF6TKgierZ8Kz9XoCmCCuDLu/pub?start=false&loop=false&delayms=3000{/google slides}
+Project Overview: Based on records of previous 311 complaints, can we predict how long an incident will take to resolve?
+
+Context: 
+In choosing a business problem to solve, my team and I decided to look into the problem reducing abnormally long 311 call resolution time. Specifically, we attempted to build supervised regression models that can predict 311 call resolution times. 
+
+In theory, the predictions would reflect normal resolution times and if a call, in actuality, exceeds the prediction by a lot, we can conclude that the resolution of the issue in the call should be prioritized since it is outside of normal processing time.
+
+## Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing)
+
+Steps performed at this stage:
+- Finding Data and joining datasets
+- Feature Selection
+- Remove Unneeded Columns
+- Extract Resolution Time and Conduct Basic Data Cleaning
+- Data Exploration
