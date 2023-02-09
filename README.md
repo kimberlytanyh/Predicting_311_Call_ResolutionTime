@@ -26,6 +26,6 @@ Steps performed at this stage:
 - Conduct Basic Data Cleaning (removing duplicates and NA values)
 - Feature Engineering and Data Exploration (Done by me using Python in Jupyter Notebook and Excel)
 
-<img src = "images/Data Exploration.png" width = 700 height = 400>
+<img src = "images/Data Exploration.png">
 
 
