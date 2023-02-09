@@ -7,6 +7,11 @@ In choosing a business problem to solve, my team and I decided to look into the 
 
 In theory, the predictions would reflect normal resolution times and if a call, in actuality, exceeds the prediction by a lot, we can conclude that the resolution of the issue in the call should be prioritized since it is outside of normal processing time.
 
+__Link to Reports:__
+1. [Data Preparation and Understanding](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing)
+2. [Model Selection](https://docs.google.com/presentation/d/1bqSDOui2vZBtfdjYC2-SaFutK6x_-t_AX1RFgxYnALM/edit?usp=sharing)
+3. [Model Findings and Results](https://docs.google.com/presentation/d/12Ww5un8kX3s4O1QaNZfMki8OF6bZz94bsmFw85RYWrc/edit?usp=sharing)
+
 __Note: Some files created during the project are not in this repository due to file misplacement (e.g. the tree-based models I created). However, model performance results are included in the "Model Findings and Results report".__
 
 ## Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing) 
