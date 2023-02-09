@@ -19,6 +19,6 @@ Steps performed at this stage:
 
 #### Joining Data
 
-![](images/Dataset Joining - Overview.png)
+![](images/"Dataset Joining - Overview.png")
 
 
