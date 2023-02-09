@@ -46,6 +46,8 @@ Of all models, the XGBoost model I built had the best performance. However, even
 ### Takeaway:
 <img src = "images/Project Takeaways.png" width = 700 height = 400>
 
-Personal Reflection: We should also have accounted the data for a larger range of years for potentially better prediction performance in our models, in addition to researching other features that could have been better predictors. Lastly, box plots should be utilized to better understand outliers in the data and for better evaluation of our RMSE and MAE values. 
+
+__Personal Reflection:__ 
+We should also have accounted the data for a larger range of years for potentially better prediction performance in our models, in addition to researching other features that could have been better predictors. Lastly, box plots should be utilized to better understand outliers in the data and for better evaluation of our RMSE and MAE values. 
 
 E.g. Is our RMSE and MAE truly as bad as we think? We concluded that the amount of error is unacceptable for production, but how does it compare to the range of resolution time? In earlier stages of data exploration, it was seem that within each category, resolution time had a huge range.
