@@ -16,13 +16,14 @@ __Link to Reports:__
 
 ## Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing) 
 
-<img src = "images/Dataset Joining - Overview.png">
+<img src = "images/Dataset Joining - Overview.png" width = 700 height = 500>
 
 Steps performed at this stage:
 - Finding Data and Joining Datasets ([2020 311 Cases in San Francisco](https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6), Registered Business Locations, City Facilities, and San Francisco Socio-Economic Profiles)
 - Feature Selection (removing unneeded columns to reduce dimensionality)
-- Extract Resolution Time and Conduct Basic Data Cleaning (removing duplicates and NA values)
-- Data Exploration 
+- Extract Resolution Time
+- Conduct Basic Data Cleaning (removing duplicates and NA values)
+- Feature Engineering and Data Exploration (Done by me)
 
 
 
