@@ -12,9 +12,11 @@ __Link to Reports:__
 2. [Model Selection](https://docs.google.com/presentation/d/1bqSDOui2vZBtfdjYC2-SaFutK6x_-t_AX1RFgxYnALM/edit?usp=sharing)
 3. [Model Findings and Results](https://docs.google.com/presentation/d/12Ww5un8kX3s4O1QaNZfMki8OF6bZz94bsmFw85RYWrc/edit?usp=sharing)
 
-__Note: Some files created during the project are not in this repository due to file misplacement (e.g. the tree-based models I created). However, model performance results are included in the "Model Findings and Results report".__
+*Note: Some files created during the project are not in this repository due to file misplacement (e.g. the tree-based models I created). However, model performance results are included in the "Model Findings and Results report".*
 
 ## Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing) 
+
+![](images\Dataset Joining - Overview.png)
 
 Steps performed at this stage:
 - Finding Data and Joining Datasets ([2020 311 Cases in San Francisco](https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6), Registered Business Locations, City Facilities, and San Francisco Socio-Economic Profiles)
@@ -22,8 +24,6 @@ Steps performed at this stage:
 - Extract Resolution Time and Conduct Basic Data Cleaning (removing duplicates and NA values)
 - Data Exploration 
 
-#### Joining Data
 
-![](images/"Dataset Joining - Overview.png")
 
 
