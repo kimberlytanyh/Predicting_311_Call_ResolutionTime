@@ -24,8 +24,8 @@ Steps performed at this stage:
 - Feature Selection (removing unneeded columns to reduce dimensionality)
 - Extract Resolution Time
 - Conduct Basic Data Cleaning (removing duplicates and NA values)
-- Feature Engineering and Data Exploration (Done by me)
+- Feature Engineering and Data Exploration (Done by me using Python in Jupyter Notebook and Excel)
 
-
+<img src = "images/Data Exploration.png" width = 700 height = 400>
 
 
