@@ -16,7 +16,7 @@ __Link to Reports:__
 
 ## Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing) 
 
-![](images/Dataset Joining - Overview.png)
+<img src = "images/Dataset Joining - Overview.png">
 
 Steps performed at this stage:
 - Finding Data and Joining Datasets ([2020 311 Cases in San Francisco](https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6), Registered Business Locations, City Facilities, and San Francisco Socio-Economic Profiles)
