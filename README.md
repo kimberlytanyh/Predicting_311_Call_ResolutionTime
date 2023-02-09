@@ -28,4 +28,24 @@ Steps performed at this stage:
 
 <img src = "images/Data Exploration.png">
 
+### Stage 2: [Model Selection](https://docs.google.com/presentation/d/1bqSDOui2vZBtfdjYC2-SaFutK6x_-t_AX1RFgxYnALM/edit?usp=sharing)
 
+Having learnt various machine learning methods/algorithms, we narrowed down the types of models we will build using the following criteria:
+- Uses supervised learning (since we are using historical data)
+- Able to perform regression (since we are predicting a quantitative, continuous dependent variable - resolution time)
+
+Due to time constraint, we only built the following types of models: Multiple Linear Regression, RandomForest, and XGBoost.
+
+### Stage 3: [Model Findings and Results](https://docs.google.com/presentation/d/12Ww5un8kX3s4O1QaNZfMki8OF6bZz94bsmFw85RYWrc/edit?usp=sharing)
+
+After building various machine learning models, we compared and evaluated the performance of all three types of models. We decided to use the performance of the Multiple Linear Regression model as the baseline since it is the most basic model.
+
+The models were evaluated with the following the metrics: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-Squared.
+Of all models, the XGBoost model I built had the best performance. However, even our best models only explained 25% of the variation in resolution time.
+
+### Takeaway:
+<img src = "images/Project Takeaways.png" width = 700 height = 400>
+
+Personal Reflection: We should also have accounted the data for a larger range of years for potentially better prediction performance in our models, in addition to researching other features that could have been better predictors. Lastly, box plots should be utilized to better understand outliers in the data and for better evaluation of our RMSE and MAE values. 
+
+E.g. Is our RMSE and MAE truly as bad as we think? We concluded that the amount of error is unacceptable for production, but how does it compare to the range of resolution time? In earlier stages of data exploration, it was seem that within each category, resolution time had a huge range.
