@@ -16,6 +16,7 @@ __Link to Reports:__
 
 *Note: Some files created during the project are not in this repository due to file misplacement (e.g. the tree-based models I created). However, model performance results are included in the "Model Findings and Results report".*
 
+## Project Breakdown/Summary
 ### Stage 1: [Data Preparation and Understanding Data](https://docs.google.com/presentation/d/1cNAAgVxRoOjzag2rKMAHLFmK46ZXGNRW_qmfJ-iy3uk/edit?usp=sharing) 
 
 <img src = "images/Dataset Joining - Overview.png" width = 700 height = 400>
