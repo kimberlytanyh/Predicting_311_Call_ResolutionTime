@@ -44,7 +44,7 @@ The models were evaluated with the following the metrics: Root Mean Squared Erro
 Of all models, the XGBoost model I built had the best performance. However, even our best models only explained 25% of the variation in resolution time.
 
 We also concluded that our models were not accurate enough for production, with too large of residuals.
-<img src = "images/Residuals per Model">
+<img src = "images/Residuals per Model.png">
 
 
 ### Takeaway:
