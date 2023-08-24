@@ -6,7 +6,7 @@ Based on records of previous 311 complaints, can we predict how long an incident
 
 __Context:__ 
 
-In choosing a business problem to solve, my team and I decided to look into the problem reducing abnormally long 311 call resolution time. Specifically, we attempted to build supervised regression models that can predict 311 call resolution times. 
+In choosing a business problem to solve, my team and I decided to look into the problem of reducing abnormally long 311 call resolution time. Specifically, we attempted to build supervised regression models that can predict 311 call resolution times. 
 
 In theory, the predictions would reflect normal resolution times and if a call, in actuality, exceeds the prediction by a lot, we can conclude that the resolution of the issue in the call should be prioritized since it is outside of normal processing time.
 
